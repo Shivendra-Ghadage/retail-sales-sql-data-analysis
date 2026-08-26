@@ -1,0 +1,20 @@
+-- Some most ask interview level sql queries quetions.
+
+-- Find the second-highest product price.
+-- Find the third-highest product price.
+-- Find the second-highest revenue-generating product.
+-- Find customers who have placed more than 2 orders.
+-- Find the category with the highest revenue.
+-- Find the employee who handled the most orders.
+-- Find the employee who generated the highest order value.
+-- Find products that have never been sold.
+-- Find customers who have never placed an order.
+-- Find the top 3 products in every category.
+-- Find each customer's first order date.
+-- Find each customer's most recent order date.
+-- Find customers whose spending is above the average customer spending.
+-- Find the highest-selling product for each month.
+-- Calculate monthly revenue growth.
+-- Calculate each category's percentage contribution to total revenue.
+-- Find the cumulative revenue over time.
+-- Find the running total of sales by month.
