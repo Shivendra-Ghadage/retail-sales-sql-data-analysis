@@ -128,8 +128,12 @@ retail-sales-sql-data-analysis/
     ├── 10_sales_growth.sql
     ├── 11_final_business_report.sql
     └── 12_interview_questions.sql
+end '''
 
- ## 📚 SQL Concepts Covered
+
+---
+
+## 📚 SQL Concepts Covered
 
 The project covers SQL concepts from basic querying to advanced analytical SQL techniques.
 <img width="1536" height="1024" alt="ChatGPT Image Aug 27, 2026, 01_13_33 AM" src="https://github.com/user-attachments/assets/37526070-68aa-4b62-abd8-696bb1db11fa" />
