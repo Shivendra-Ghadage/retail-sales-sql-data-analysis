@@ -60,7 +60,7 @@ The database contains six main tables:
 
 The database is designed using relationships between customers, orders, employees, products, categories, and order items.
 
-![Retail Sales ER Diagram](<img width="1190" height="1322" alt="ChatGPT Image Aug 27, 2026, 01_13_43 AM" src="https://github.com/user-attachments/assets/ed8ebfc1-5cde-4375-b218-f42d2b0e4adf" />)
+(<img width="1190" height="1322" alt="ChatGPT Image Aug 27, 2026, 01_13_43 AM" src="https://github.com/user-attachments/assets/ed8ebfc1-5cde-4375-b218-f42d2b0e4adf" />)
 
 ### Main Relationships
 
