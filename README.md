@@ -60,8 +60,7 @@ The database contains six main tables:
 
 The database is designed using relationships between customers, orders, employees, products, categories, and order items.
 
-![Retail Sales ER Diagram](<img width="1190" height="1322" alt="ChatGPT Image Aug 27, 2026, 01_13_43 AM" src="https://github.com/user-attachments/assets/fde06316-b113-4d77-b32e-a7013c132170" />
-)
+<img width="1190" height="1322" alt="ChatGPT Image Aug 27, 2026, 01_13_43 AM" src="https://github.com/user-attachments/assets/fde06316-b113-4d77-b32e-a7013c132170" />
 
 ### Main Relationships
 
@@ -78,8 +77,7 @@ The database is designed using relationships between customers, orders, employee
 
 The project is organized into three main folders:
 
-![Project Structure](<img width="1173" height="1341" alt="ChatGPT Image Aug 27, 2026, 01_13_55 AM" src="https://github.com/user-attachments/assets/8516b013-c050-4e67-a800-ff6613b59c33" />
-)
+<img width="1173" height="1341" alt="ChatGPT Image Aug 27, 2026, 01_13_55 AM" src="https://github.com/user-attachments/assets/8516b013-c050-4e67-a800-ff6613b59c33" />
 
 ```text
 retail-sales-sql-data-analysis/
@@ -131,9 +129,7 @@ retail-sales-sql-data-analysis/
     ├── 11_final_business_report.sql
     └── 12_interview_questions.sql
 
- ---
-
  ## 📚 SQL Concepts Covered
 
 The project covers SQL concepts from basic querying to advanced analytical SQL techniques.
-![SQL Concepts Covered]()
+<img width="1536" height="1024" alt="ChatGPT Image Aug 27, 2026, 01_13_33 AM" src="https://github.com/user-attachments/assets/37526070-68aa-4b62-abd8-696bb1db11fa" />
