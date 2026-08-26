@@ -128,12 +128,218 @@ retail-sales-sql-data-analysis/
     ├── 10_sales_growth.sql
     ├── 11_final_business_report.sql
     └── 12_interview_questions.sql
-end '''
-
-
+```
 ---
 
 ## 📚 SQL Concepts Covered
 
 The project covers SQL concepts from basic querying to advanced analytical SQL techniques.
 <img width="1536" height="1024" alt="ChatGPT Image Aug 27, 2026, 01_13_33 AM" src="https://github.com/user-attachments/assets/37526070-68aa-4b62-abd8-696bb1db11fa" />
+
+### 🔹 Basic SQL
+
+- `SELECT`
+- `WHERE`
+- `ORDER BY`
+- `DISTINCT`
+- `LIMIT`
+
+### 🔹 Aggregation
+
+- `COUNT()`
+- `SUM()`
+- `AVG()`
+- `MIN()`
+- `MAX()`
+- `GROUP BY`
+- `HAVING`
+
+### 🔹 JOINs
+
+- `INNER JOIN`
+- `LEFT JOIN`
+- `SELF JOIN`
+- Multiple-table JOINs
+
+### 🔹 Advanced SQL
+
+- Subqueries
+- Common Table Expressions (CTEs)
+- `CASE` statements
+- Window Functions
+- `ROW_NUMBER()`
+- `RANK()`
+- `DENSE_RANK()`
+- `LAG()`
+- `LEAD()`
+- `PARTITION BY`
+- Running Totals
+- Top-N Analysis
+
+---
+
+## 📊 Key Business Questions
+
+This project uses SQL to answer practical business questions related to retail sales.
+
+### 🛍️ Sales Analysis
+
+- What are the total sales and net sales?
+- What is the gross sales amount?
+- How much discount was given?
+- What is the average order value?
+- Which month generated the highest sales?
+- How is sales performance changing over time?
+- What is the monthly sales growth?
+
+### 📦 Product Analysis
+
+- Which products sell the most units?
+- Which products generate the highest revenue?
+- Which products have the highest profit?
+- Which products have low inventory?
+- Which products have never been sold?
+- Which category generates the highest revenue?
+- What are the top 3 products in each category?
+
+### 👥 Customer Analysis
+
+- How many customers are registered?
+- Which customers have placed the most orders?
+- Which customers spend the most?
+- Which customers have never placed an order?
+- What is the average order value for each customer?
+- What is each customer's first order date?
+- What is each customer's most recent order date?
+
+### 👨‍💼 Employee Analysis
+
+- Which employee handles the most orders?
+- Which employee handles the highest order value?
+- Which employees report to which managers?
+
+### 🧾 Order Analysis
+
+- How many orders are in each order status?
+- Which payment method is used most frequently?
+- Which city generates the highest sales?
+- What is the distribution of order values?
+
+---
+
+## 🚀 Advanced Business Analysis
+
+The project also includes advanced SQL problems and analytical queries such as:
+
+- Finding the second-highest product price
+- Finding the third-highest product price
+- Finding the second-highest revenue-generating product
+- Finding customers who placed more than two orders
+- Finding the highest-revenue category
+- Finding the employee with the highest number of orders
+- Finding products that have never been sold
+- Finding customers who have never placed an order
+- Finding the top 3 products in every category
+- Finding each customer's first order
+- Finding each customer's latest order
+- Finding customers whose spending is above average
+- Finding the highest-selling product for each month
+- Calculating monthly revenue growth
+- Calculating category contribution to total revenue
+- Calculating cumulative revenue
+- Calculating running monthly sales totals
+
+---
+
+## 📈 Project Highlights
+
+This project helped me practice SQL from basic queries to advanced business analysis using a single retail sales database.
+
+### Key Areas Covered
+
+- Relational database design
+- Data exploration
+- Data filtering and sorting
+- Data aggregation
+- Multi-table analysis
+- Sales and revenue calculations
+- Customer analysis
+- Product performance analysis
+- Inventory analysis
+- Employee performance analysis
+- Advanced SQL queries
+- Window functions
+- Business KPI generation
+- SQL interview problem solving
+
+The project focuses not only on writing SQL queries, but also on understanding the business problem behind each analysis.
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **MySQL**
+- **MySQL Workbench**
+- **SQL**
+- **Relational Database Concepts**
+- **Data Analysis**
+
+---
+
+## 💡 Skills Demonstrated
+
+Through this project, I practiced and demonstrated:
+
+- SQL Query Writing
+- MySQL
+- Database Design
+- Relational Data Modeling
+- Data Exploration
+- Data Analysis
+- Business Analysis
+- Sales Analytics
+- Customer Analytics
+- Product Analytics
+- Advanced SQL
+- Analytical Thinking
+- Problem Solving
+
+---
+
+## 🔮 Future Improvements
+
+I plan to extend this project further by:
+
+- Connecting the SQL database with Power BI
+- Creating an interactive retail sales dashboard
+- Adding more historical sales data
+- Performing customer segmentation
+- Adding sales forecasting
+- Analyzing customer retention
+- Creating monthly and yearly KPI dashboards
+- Optimizing queries using indexes
+- Creating SQL views for frequently used reports
+
+---
+
+## 👨‍💻 Author
+
+**Shivendra Ghadage**
+
+Data Analyst | SQL | MySQL | Power BI | Python
+
+### GitHub
+
+[Shivendra-Ghadage](https://github.com/Shivendra-Ghadage)
+
+---
+
+## ⭐ Conclusion
+
+This project was created as a practical SQL learning and portfolio project.
+
+It helped me move from basic SQL concepts to advanced analytical techniques while working with a realistic retail sales database.
+
+Through this project, I practiced how SQL can be used to explore data, identify trends, calculate business KPIs, analyze customer and product performance, and answer real-world business questions.
+
+⭐ Thank you for visiting this project!
