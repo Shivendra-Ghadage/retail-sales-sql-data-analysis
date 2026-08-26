@@ -77,7 +77,8 @@ The database is designed using relationships between customers, orders, employee
 
 The project is organized into three main folders:
 
-![Project Structure](retail_sales_project_structure.png)
+![Project Structure](<img width="1190" height="1322" alt="ChatGPT Image Aug 27, 2026, 01_13_43 AM" src="https://github.com/user-attachments/assets/ed8ebfc1-5cde-4375-b218-f42d2b0e4adf" />
+)
 
 ```text
 retail-sales-sql-data-analysis/
