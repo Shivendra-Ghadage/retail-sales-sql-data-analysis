@@ -60,7 +60,8 @@ The database contains six main tables:
 
 The database is designed using relationships between customers, orders, employees, products, categories, and order items.
 
-(<img width="1190" height="1322" alt="ChatGPT Image Aug 27, 2026, 01_13_43 AM" src="https://github.com/user-attachments/assets/ed8ebfc1-5cde-4375-b218-f42d2b0e4adf" />)
+![Retail Sales ER Diagram](<img width="1190" height="1322" alt="ChatGPT Image Aug 27, 2026, 01_13_43 AM" src="https://github.com/user-attachments/assets/fde06316-b113-4d77-b32e-a7013c132170" />
+)
 
 ### Main Relationships
 
@@ -76,7 +77,9 @@ The database is designed using relationships between customers, orders, employee
 ## 📂 Project Structure
 
 The project is organized into three main folders:
-Project structure()
+
+![Project Structure](<img width="1173" height="1341" alt="ChatGPT Image Aug 27, 2026, 01_13_55 AM" src="https://github.com/user-attachments/assets/8516b013-c050-4e67-a800-ff6613b59c33" />
+)
 
 ```text
 retail-sales-sql-data-analysis/
@@ -127,3 +130,10 @@ retail-sales-sql-data-analysis/
     ├── 10_sales_growth.sql
     ├── 11_final_business_report.sql
     └── 12_interview_questions.sql
+
+ ---
+
+ ## 📚 SQL Concepts Covered
+
+The project covers SQL concepts from basic querying to advanced analytical SQL techniques.
+![SQL Concepts Covered]()
